@@ -1,6 +1,13 @@
 language: csharp
 dotnet: 2.2.101
-solution: CoreSample.csproj
+solution: CoreSample.sln
 script:
-  - dotnet restore
-  - dotnet build
+  - dotnet build --configuration Release
+
+  deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_token
+  local_dir: bin/Release/netcoreapp2.2
+  on:
+    branch: master
