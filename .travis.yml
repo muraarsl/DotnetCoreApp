@@ -4,7 +4,7 @@ solution: CoreSample.sln
 script:
   - dotnet build --configuration Release
 
-  deploy:
+deploy:
   provider: pages
   skip_cleanup: true
   github_token: $github_token
