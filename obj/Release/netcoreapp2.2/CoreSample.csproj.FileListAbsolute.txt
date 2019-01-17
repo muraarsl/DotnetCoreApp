@@ -1,0 +1,14 @@
+C:\DotnetCoreApp\CoreSample\bin\Release\netcoreapp2.2\CoreSample.deps.json
+C:\DotnetCoreApp\CoreSample\bin\Release\netcoreapp2.2\CoreSample.runtimeconfig.json
+C:\DotnetCoreApp\CoreSample\bin\Release\netcoreapp2.2\CoreSample.runtimeconfig.dev.json
+C:\DotnetCoreApp\CoreSample\bin\Release\netcoreapp2.2\CoreSample.dll
+C:\DotnetCoreApp\CoreSample\bin\Release\netcoreapp2.2\CoreSample.pdb
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.csprojAssemblyReference.cache
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.csproj.CoreCompileInputs.cache
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.RazorAssemblyInfo.cache
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.RazorAssemblyInfo.cs
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.AssemblyInfoInputs.cache
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.AssemblyInfo.cs
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.RazorTargetAssemblyInfo.cache
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.dll
+C:\DotnetCoreApp\CoreSample\obj\Release\netcoreapp2.2\CoreSample.pdb
