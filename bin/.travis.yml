@@ -1,0 +1,6 @@
+language: csharp
+dotnet: 2.2.101
+solution: CoreSample.csproj
+script:
+  - dotnet restore
+  - dotnet build
